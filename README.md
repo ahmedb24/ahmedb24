@@ -1,16 +1,12 @@
-## Hi there 👋
+### Hi there, I'm Ahmed 👋                                                                                                                                                                                                                                                
+DevOps Engineer focused on designing scalable cloud infrastructure, managing Kubernetes clusters, and building high-fidelity observability pipelines.                                                                                                                                                                                                                                 
+**Currently working on:**                                                                                                          
+- Hardening EKS clusters and managing node stability at scale.                                                                   
+- AWS Cost Optimization - recently reduced operational expenses by $50k/year via telemetry optimization.               
+- Building on-premise and cloud observability stacks with Prometheus and the ELK stack.                         
+- Infrastructure as Code utilizing modular Terraform configurations across multiple environments.
 
-<!--
-**ahmedb24/ahmedb24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Recent Tools:**
+- [signoz-otlp-verify](https://github.com/ahmedb24/signoz-otlp-verify) - A diagnostic CLI for verifying self-hosted SigNoz OTLP ingestion.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Reach me on [LinkedIn](https://linkedin.com/in/ahmedb24)**
